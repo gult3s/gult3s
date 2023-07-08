@@ -4,11 +4,16 @@ A full-stack developer, who is passionate about creating beautiful, responsive, 
 
 🎓 I'm currently working with React + NodeJS [Using TypeScript]
 
-👊 I'm looking for opportunities in Front End or FullStack Web, mainly using Javascript
+🎓 I'm currently learning about Cloud AWS
+
+👊 I'm looking for opportunities in Front End, Back End or FullStack Web, mainly using Javascript
+
+📝 My github from 2020 to 2023 was https://github.com/Gultes
+
 
 📝 I've published some content about git/github and utilities in [https://web.dio.me/articles]
 
-💢 Fun fact. I used to make lives about games on Twitch, from 2018 to 2021, this helped me to develop interpersonal skills, and sometimes I still go there: https://www.twitch.tv/gultes
+💢 Fun fact. I used to make lives about games on Twitch, from 2018 to 2021, this helped me to develop interpersonal skills, sometimes I still go there: https://www.twitch.tv/gultes
 
 ![snake gif ](https://github.com/gult3s/gult3s/blob/output/github-contribution-grid-snake.svg )
 
