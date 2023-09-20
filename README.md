@@ -4,7 +4,7 @@ A full-stack developer, who is passionate about creating beautiful, responsive, 
 
 🎓 I'm currently working with React + NodeJS [Using TypeScript]
 
-🎓 I'm currently learning about Cloud AWS
+🎓 I'm currently learning about Artificial Intelligence and Cloud AWS
 
 👊 I'm looking for opportunities in Front End, Back End or FullStack Web, mainly using Javascript
 
@@ -34,8 +34,4 @@ A full-stack developer, who is passionate about creating beautiful, responsive, 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35" height="35"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a>  
 
 <h3 align="left">I also have knowledge about</h3>
-Java, AngularJS, MongoDB, AWS Cloud
-
-<h3 align="left">I am also curious about >>> </h3>
-
-Kotlin, Unity [C++]
+AngularJS, MongoDB, AWS Cloud
