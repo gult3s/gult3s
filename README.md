@@ -4,7 +4,7 @@ A full-stack developer, who is passionate about creating beautiful, responsive, 
 
 🎓 I'm currently working with React + NodeJS [Using TypeScript]
 
-🎓 I'm currently learning about Artificial Intelligence and Cloud AWS
+🎓 I'm currently learning about Artificial Intelligence, Data Science and Cloud AWS
 
 👊 I'm looking for opportunities in Front End, Back End or FullStack Web, mainly using Javascript
 
